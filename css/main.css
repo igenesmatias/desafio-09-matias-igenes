@@ -7,9 +7,14 @@
 	outline: none;
 }
 
+.navbar-brand {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+    font-size: 25px !important;
+}
+
 
 img {
-    height: 700px;
+    height: 40em;
     display: block;
  margin: 0px auto;
     
@@ -36,3 +41,7 @@ img {
     padding: 10px;
     
 }
+.mb-3 {
+    padding: 5px !important;
+}
+
