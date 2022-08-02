@@ -1,0 +1,38 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	border: none;
+	outline: none;
+}
+
+
+img {
+    height: 700px;
+    display: block;
+ margin: 0px auto;
+    
+}
+
+.card-img-top {
+    width: 350px !important;
+    height: 350px !important;
+    
+}
+
+.card {
+    padding: 15px !important;
+    text-align: center !important;
+}
+
+.ser {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.introduccion {
+    font-weight: bold;
+    padding: 10px;
+    
+}
